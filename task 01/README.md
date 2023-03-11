@@ -1,12 +1,12 @@
 # Задание 1, 8 kyu:
 
-Coding in function blackAndWhite. function accept 1 parameter arr(a number array).<br>
+Coding in ```function blackAndWhite```. function accept 1 parameter arr(a number array).<br>
 Кодирование в функции blackAndWhite. функция принимает 1 параметр arr (числовой массив).
 
-If arr is not an array, function should return:
+If arr is not an array, function should return:<br>
 Если arr не является массивом, функция должна вернуть:
 
-"It's a fake array"
+```"It's a fake array"```
 
 If arr contains elements 5 and 13, function should return:
 Если arr содержит элементы 5 и 13, функция должна вернуть:
