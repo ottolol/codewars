@@ -1,6 +1,6 @@
 # Задание 1, 8 kyu:
 
-Coding in function blackAndWhite. function accept 1 parameter arr(a number array).
+Coding in function blackAndWhite. function accept 1 parameter arr(a number array).<br>
 Кодирование в функции blackAndWhite. функция принимает 1 параметр arr (числовой массив).
 
 If arr is not an array, function should return:
