@@ -1,10 +1,13 @@
-# Задание 1:
+# Задание 1, 8 kyu:
 
-Coding in function blackAndWhite. function accept 1 parameter arr(a number array). 
+Coding in function blackAndWhite. function accept 1 parameter arr(a number array).
+
 Кодирование в функции blackAndWhite. функция принимает 1 параметр arr (числовой массив).
 
-If arr is not an array, function should return: 
+If arr is not an array, function should return:
+
 Если arr не является массивом, функция должна вернуть:
+
 "It's a fake array"
 
 If arr contains elements 5 and 13, function should return:
@@ -25,4 +28,3 @@ If arr contains neither 5 nor 13, function should return:
 ```
 
 [Ссылка на урок](https://www.codewars.com/kata/5732b0351eb838d03300101d/train/javascript)
-Уровень - 8 kyu
